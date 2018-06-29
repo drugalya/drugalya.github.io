@@ -23,14 +23,16 @@ p {
 }
 
 
-h1 h2 h3 {
+h1 h2  {
     font-weight: 400;
     margin-bottom: 0px;
+}
+h3 {
+    margin-bottom: 0
 }
 h1 {
     font-size: 36px;
 }
-
 h2 {
     font-size: 32px;
     border-bottom-style: solid;
